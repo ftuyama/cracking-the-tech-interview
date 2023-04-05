@@ -25,3 +25,11 @@ val2 = (true && false)     # results in val2 being equal to false
 
 - include mixes in specified module methods as instance methods in the target class
 - extend mixes in specified module methods as class methods in the target class
+
+## Inline Fibonacci sequence
+
+(1..20).inject( [0, 1] ) { | fib | fib << fib.last(2).inject(:+) }
+
+## Explain how & works
+
+When a parameter is passed with & in front of it (indicating that is it to be used as a block), Ruby will call to_proc on it in an attempt to make it usable as a block. Symbol#to_proc quite handily returns a Proc that will invoke the method of the corresponding name on whatever is passed to it, thus enabling our little shorthand trick to work.
