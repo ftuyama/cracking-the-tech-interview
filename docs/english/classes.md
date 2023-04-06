@@ -46,3 +46,8 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 | Vice      | /vaɪs/                                      |       | <https://dictionary.cambridge.org/pronunciation/english/vice>      |
 | Curiosity | /ˌkjʊə.riˈɒs.ə.ti/ UK /ˌkjʊr.iˈɑː.sə.t̬i/ US |       | <https://dictionary.cambridge.org/pronunciation/english/curiosity> |
 
+
+### Material to study:
+
+<https://engoo.com/app/materials/en>
+
