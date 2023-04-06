@@ -1,3 +1,9 @@
+---
+layout: home
+parent: Programming
+title: Functional
+---
+
 # Functional Programming
 
 - **Pure Functions**: A function that returns the same output given the same input and has no side effects.

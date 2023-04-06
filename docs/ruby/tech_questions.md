@@ -1,4 +1,10 @@
-# Silly Questions
+---
+layout: home
+parent: Ruby
+title: Tech Questions
+---
+
+# Tech Questions
 
 Silly questions no one uses, but... <https://www.toptal.com/ruby/interview-questions>
 
@@ -19,7 +25,7 @@ val2 = (true && false)     # results in val2 being equal to false
 ## Clone vs dup
 
 - Object#dup creates a shallow copy of an object (it will not copy any mixed-in module methods)
-- Object#clone will 
+- Object#clone will
 
 ## Include vs Extend
 

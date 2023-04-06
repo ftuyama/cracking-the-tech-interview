@@ -1,9 +1,15 @@
+---
+layout: home
+title: Ruby
+has_children: true
+---
+
 # Ruby
 
 - Dynamic, reflective, general purpose, open source
 - Focuses on simplicity and productivity
 
-## Main 
+## Main
 
 ### Key features
 

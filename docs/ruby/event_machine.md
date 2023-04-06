@@ -1,3 +1,9 @@
+---
+layout: home
+parent: Ruby
+title: Event Machine
+---
+
 # EventMachine
 
 EventMachine is a Ruby library for building event-driven and scalable network applications. Its main points are:

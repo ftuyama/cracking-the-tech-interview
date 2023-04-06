@@ -1,3 +1,9 @@
+---
+layout: home
+parent: Ruby
+title: Rack
+---
+
 # Rack
 
 Rack is a Ruby web server interface that sits between web servers and web frameworks, allowing them to communicate with each other in a standardized way. It provides a simple and modular API that abstracts away the low-level details of web server communication, such as parsing HTTP requests and generating HTTP responses.

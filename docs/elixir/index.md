@@ -1,3 +1,8 @@
+---
+layout: home
+title: Elixir
+---
+
 # Elixir
 
 - **Concurrency**: Elixir has built-in support for concurrency, which allows developers to write programs that can execute multiple tasks at the same time. Elixir uses lightweight processes (not to be confused with operating system processes) that are isolated from each other, making concurrency safe and efficient.

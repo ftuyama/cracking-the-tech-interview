@@ -1,3 +1,8 @@
+---
+layout: home
+title: Typescript
+---
+
 # Typescript
 
 - **Type Annotations**: TypeScript is a typed language, which means that variables and functions can have types. Type annotations help catch errors at compile-time and make code more self-documenting.

@@ -1,3 +1,8 @@
+---
+layout: home
+title: React
+---
+
 # React
 
 <https://github.com/sudheerj/reactjs-interview-questions>
@@ -58,9 +63,9 @@ Redux is an open-source, JavaScript library used to manage the application state
 - *Action*: The source information for the store.
 - *Reducer*: Specifies how the application's state changes in response to actions sent to the store.
 
-## Flux 
+## Flux
 
-Flux is the application architecture that Facebook uses for building web applications. 
+Flux is the application architecture that Facebook uses for building web applications.
 
 It is a method of handling complex data inside a client-side application and manages how data flows in a React application.
 

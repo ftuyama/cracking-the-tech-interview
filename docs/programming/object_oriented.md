@@ -1,3 +1,9 @@
+---
+layout: home
+parent: Programming
+title: Object Oriented
+---
+
 # Object Oriented Programming
 
 - **Class**: Blueprint for creating objects

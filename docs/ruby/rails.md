@@ -1,3 +1,9 @@
+---
+layout: home
+parent: Ruby
+title: Rails
+---
+
 # Rails
 
 - **Model-View-Controller (MVC)**: Rails follows the MVC architectural pattern, which separates an application into three interconnected components**: the model (handles data), the view (displays data), and the controller (handles user input).
