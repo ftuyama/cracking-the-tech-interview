@@ -1,3 +1,3 @@
-# Cracking the Code Interview
+# Cracking the Tech Interview
 
-Cracking the code interview, answer easily the technical questions
+Cracking the tech interview, answer easily the technical questions
