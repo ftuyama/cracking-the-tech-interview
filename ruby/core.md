@@ -32,6 +32,8 @@
 - Instance variable
 - Global variable
 
+## Blocks
+
 ### Block
 
 Ruby code blocks are called closures in other programming languages. It consist of a group of codes which is always enclosed with braces or written between do...end.
@@ -94,6 +96,8 @@ my_proc = Proc.new { |x| puts x }
 Ruby procs & lambdas also have another special attribute. When you create a Ruby proc, it captures the current execution scope with it.
 
 This concept, which is sometimes called closure, means that a proc will carry with it values like local variables and methods from the context where it was defined.
+
+## Other
 
 ### &
 
