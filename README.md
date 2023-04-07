@@ -2,6 +2,8 @@
 
 Cracking the tech interview, answer easily the technical questions
 
+Access it at <https://ftuyama.com/cracking-the-tech-interview>
+
 ## How to run it locally?
 
 Install the dependency:
