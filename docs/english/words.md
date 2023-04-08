@@ -16,6 +16,7 @@ title: Words
 | Social    | /ˈsoʊ.ʃəl/  | sow·shl      | soul + shial | <https://www.google.com/search?q=social+pronounce>    |
 | Published | /ˈpʌb.lɪʃt/ | puh·bluhsht  | pūblisht     | <https://www.google.com/search?q=published+pronounce> |
 | Pentagon  | /-t̬ə.ɡɑːn/  | pen·tuh·gaan | pen + tagôn  | <https://www.google.com/search?q=pentagon+pronounce>  |
+| Familiarity  | /fəˌmɪlˈyærət̮i/  | fuh·mi·lee·eh·ruh·tee | fà ... tii  | <https://www.google.com/search?q=pentagon+pronounce>  |
 
 ### Z
 
