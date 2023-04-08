@@ -31,7 +31,9 @@ Make sure your lips are closed, then release the air all at once with a puff.
 
 Make sure the tip of your tongue is behind your teeth. Keep your tongue a little tense as you let the air out the sides.
 
+```
 part/heart
 pill/hill
 peers/hears
 pope/hope
+```
