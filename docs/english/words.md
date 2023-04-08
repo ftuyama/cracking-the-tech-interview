@@ -1,3 +1,9 @@
+---
+layout: home
+parent: English
+title: Words
+---
+
 # Practicing words' pronounce
 
 
