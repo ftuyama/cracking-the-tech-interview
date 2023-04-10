@@ -34,3 +34,33 @@ Validations are a way of ensuring that data meets certain criteria before it is 
 
 There are many types of validations in ActiveRecord, such as presence, length, numericality, and format. Validations are defined using methods on the model class.
 
+## Example
+
+```ruby
+class Product < ApplicationRecord
+  # Attributes
+  attribute :name, :string
+  attribute :description, :text
+  attribute :price, :decimal, precision: 10, scale: 2
+
+  # Scopes
+  scope :cheap, -> { where('price < ?', 50) }
+  scope :expensive, -> { where('price >= ?', 50) }
+
+  # Validations
+  validates :name, presence: true, length: { maximum: 255 }
+  validates :description, presence: true
+  validates :price, presence: true, numericality: { greater_than_or_equal_to: 0 }
+
+  # Methods
+  def formatted_price
+    format('$%.2f', price)
+  end
+
+  def self.search(query)
+    where('name ILIKE ?', "%#{query}%")
+  end
+end
+
+```
+
