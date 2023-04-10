@@ -38,3 +38,19 @@ pill/hill
 peers/hears
 pope/hope
 ```
+
+## 2023-04-09
+
+| Word           | IPA              | Pronounce        | BR             | Link                                                       |
+| -------------- | ---------------- | ---------------- | -------------- | ---------------------------------------------------------- |
+| Existing       | /ɪɡˈzɪstɪŋ/      | ig·zis·ting      | êquizistín     | <https://www.google.com/search?q=existing+pronounce>       |
+| Design         | /dɪˈzaɪn/        | dih·zyne         | dêzain         | <https://www.google.com/search?q=design+pronounce>         |
+| Service        | /ˈsɜːvɪs/        | sur·viss         | (sir)vis       | <https://www.google.com/search?q=service+pronounce>        |
+| Integral       | /ˈɪntəɡrəl/      | in·tuh·gruhl     | íntêgrawl      | <https://www.google.com/search?q=integral+pronounce>       |
+| Central        | /ˈsɛntrəl/       | sen·truhl        | cêntrual       | <https://www.google.com/search?q=central+pronounce>        |
+| Initially      | /ɪˈnɪʃəli/       | ih·nish·uh·lee   | ini·shí·áli    | <https://www.google.com/search?q=initially+pronounce>      |
+| Responsiveness | /rɪˈspɑːnsɪvnəs/ | ri·spon·siv·ness | rêspônsiviness | <https://www.google.com/search?q=responsiveness+pronounce> |
+| Integrate      | /ˈɪntɪɡreɪt/     | in·tuh·greyt     | ín·tegrayt     | <https://www.google.com/search?q=integrate+pronounce>      |
+| Responsible    | /rɪˈspɒnsəbl/    | ri·spon·suh·bl   | rêspônsíble    | <https://www.google.com/search?q=responsible+pronounce>    |
+| Architecture   | /ˈɑːrkɪtektʃər/  | ar·ki·tek·cher   | aar·kitecture  | <https://www.google.com/search?q=architecture+pronounce>   |
+
