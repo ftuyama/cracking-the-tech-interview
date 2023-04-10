@@ -1,6 +1,7 @@
 ---
 layout: home
 parent: Rails
+grand_parent: Ruby
 title: Active Record
 ---
 
