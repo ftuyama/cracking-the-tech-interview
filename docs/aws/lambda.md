@@ -110,3 +110,19 @@ def lambda_handler(event:, context:)
   response
 end
 ```
+
+## Response streaming
+
+Now you can flush changes to the network socket as soon as it is available and it will be written to the client socket.
+
+AWS Lambda streaming can be used for a variety of real-time data processing tasks, such as data transformation, filtering, aggregation, and enrichment. It is particularly useful for applications that require low-latency processing of large volumes of data, such as real-time analytics, fraud detection, and log processing.
+
+```javascript
+exports.handler = awslambda.streamifyResponse(
+    async (event, responseStream, context) => {
+        responseStream.setContentType(“text/plain”);
+        responseStream.write(“Hello, world!”);
+        responseStream.end();
+    }
+);
+```
