@@ -11,11 +11,11 @@ title: Classes
 
 Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the "E". 
 
-|           | Pronounce                                   | Pronounce   | Link                                                               |
-|-----------|---------------------------------------------|-------------|--------------------------------------------------------------------|
-| Doomed    | /duːmd/                                     |             | <https://dictionary.cambridge.org/pronunciation/english/doomed>    |
-| Created   | /dɪˈmændɪd/                                 | kree-ey-tid | <https://dictionary.cambridge.org/pronunciation/english/created>   |
-| Demanded  | /kriːˈeɪtɪd/                                | duh-man-did | <https://dictionary.cambridge.org/pronunciation/english/demanded>  |
+|           | Pronounce          | Pronounce   | Link                                                               |
+|-----------|--------------------|-------------|--------------------------------------------------------------------|
+| Doomed    | /duːmd/            |             | <https://dictionary.cambridge.org/pronunciation/english/doomed>    |
+| Created   | /dɪˈmændɪd/        | kree-ey-tid | <https://dictionary.cambridge.org/pronunciation/english/created>   |
+| Demanded  | /kriːˈeɪtɪd/       | duh-man-did | <https://dictionary.cambridge.org/pronunciation/english/demanded>  |
 
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/11530478/230504458-4dc347bd-e3f0-4e21-a52c-748c974c56a0.png">
@@ -38,8 +38,9 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 | Words ending with -ogue          | analogue dialogue catalogue                                        | analog or analogue dialog or dialogue catalog or catalogue |
 | Words ending with al/el/il/ol/ul | travelled travelling traveller fuelled fuelling                    | traveled traveling traveler fueled fueling                 |
 
+### Material to study
 
-<https://www.jcu.edu.au/__data/assets/pdf_file/0005/218633/British_American_English.pdf>
+- <https://www.jcu.edu.au/__data/assets/pdf_file/0005/218633/British_American_English.pdf>
 
 ### Picky words:
 
@@ -49,14 +50,9 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 | Vice      | /vaɪs/                                      |       | <https://dictionary.cambridge.org/pronunciation/english/vice>      |
 | Curiosity | /ˌkjʊə.riˈɒs.ə.ti/ 🇬🇧 /ˌkjʊr.iˈɑː.sə.t̬i/ 🇺🇸 |       | <https://dictionary.cambridge.org/pronunciation/english/curiosity> |
 
-
-### ED pronounce
-
-As mentioned before
-
 ### Material to study
 
-<https://engoo.com/app/materials/en>
+- <https://engoo.com/app/materials/en>
 
 
 ## Class #3 (Joseph)
@@ -72,8 +68,8 @@ Vowels should be pronounced with open and stretched mouth:
 
 ### Material to study:
 
-<https://teacherjoseph.com/>
-<https://www.antimoon.com/how/pronunc-soundsipa.htm>
+- <https://teacherjoseph.com/>
+- <https://www.antimoon.com/how/pronunc-soundsipa.htm>
 
 
 ## Class #4 (Alana)
@@ -88,7 +84,7 @@ Vowels should be pronounced with open and stretched mouth:
 | Bowl          | /boʊl/              | bohl                | bouwl              | <https://www.google.com/search?q=bowl+pronounce>          |
 | Police        | /pəˈlis/            | puh·leez            | pôliss             | <https://www.google.com/search?q=police+pronounce>        |
 
-### G
+### G pronounce
 
 Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
 
@@ -104,22 +100,17 @@ Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
 | Imagination | /ɪˌmædʒəˈneɪʃən/ | i·maj·uh·ney·shun | i·ma·dji·ney·shion | <https://www.google.com/search?q=imagination+pronounce> |
 | Challenging | /ˈtʃælɪndʒɪŋ/    | chal·un·jing      | chal·un·djing      | <https://www.google.com/search?q=challenging+pronounce> |
 
-### Uncle vs Ankle
+### Ankle or Uncle
 
-- Anchor should start with stretched mouth (🇺🇸 `Ên` or 🇬🇧 `Ang`)
+- Ankle should start with stretched mouth (🇺🇸 `Ên` or 🇬🇧 `Êng`)
 - Uncle with more closed mouth (Like the complaint `Uhn`)
 
-|             | IPA           | Pronounce         | BR            | Link                                                          |
-|-------------|---------------|-------------------|---------------|---------------------------------------------------------------|
-| Anchor      | /ˈæŋkər/      | ang·kur           | ên·korr       | <https://www.google.com/search?q=anchor+pronounce>            |
-| Uncle       | /ˈʌŋkəl/      | uhn·kul           | uhn·kl        | <https://www.google.com/search?q=uncle+pronounce>             |
-
-```
-🇺🇸 Ên-korr
-🇬🇧 Ang-kah *subtle g
-```
+|             | IPA           | Pronounce         | BR            | Link                                               |
+|-------------|---------------|-------------------|---------------|----------------------------------------------------|
+| Ankle       | /ˈæŋkəl/      | ang·kl            | ên·kl         | <https://www.google.com/search?q=ankle+pronounce>  |
+| Uncle       | /ˈʌŋkəl/      | uhn·kul           | uhn·kl        | <https://www.google.com/search?q=uncle+pronounce>  |
 
 ### Material to study
 
-<https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-k-g/5DMOJDSdEee4vVOvz0ABgg?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
+- <https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-k-g/5DMOJDSdEee4vVOvz0ABgg?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
 
