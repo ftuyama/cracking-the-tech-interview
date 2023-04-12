@@ -7,6 +7,8 @@ title: Classes
 
 ## Class #1
 
+### ED pronounce
+
 Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the "E". 
 
 |           | Pronounce                                   | Pronounce   | Link                                                               |
@@ -19,6 +21,7 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/11530478/230504458-4dc347bd-e3f0-4e21-a52c-748c974c56a0.png">
 
 <https://www.liveworksheets.com/kk298qt>
+
 
 ## Class #2
 
@@ -47,7 +50,27 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 | Curiosity | /ˌkjʊə.riˈɒs.ə.ti/ UK /ˌkjʊr.iˈɑː.sə.t̬i/ US |       | <https://dictionary.cambridge.org/pronunciation/english/curiosity> |
 
 
+### ED pronounce
+
+As mentioned before
+
 ### Material to study:
 
 <https://engoo.com/app/materials/en>
 
+
+## Class #3
+
+### Pronounce
+
+Vowels should be pronounced with open and stretched mouth:
+
+- Ambition
+- Vowel
+- Apple
+- Ask
+
+### Material to study:
+
+<https://teacherjoseph.com/>
+<https://www.antimoon.com/how/pronunc-soundsipa.htm>
