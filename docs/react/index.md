@@ -1,6 +1,7 @@
 ---
 layout: home
 title: React
+has_children: true
 ---
 
 # React
