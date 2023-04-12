@@ -21,6 +21,15 @@ has_children: true
 - **Redux**: Redux is a popular state management library that can be used with React. It provides a centralized store that holds the state of an application and allows components to subscribe to changes.
 - **Server-side Rendering**: React can be used for server-side rendering, which means that the initial HTML is generated on the server and sent to the client. This can improve the performance and SEO of a web application.
 
+## Props vs State
+
+There are two types of “model” data in React: props and state. The two are very different:
+
+- **Props are like arguments you pass to a function**. They let a parent component pass data to a child component and customize its appearance. For example, a Form can pass a color prop to a Button.
+- **State is like a component’s memory**. It lets a component keep track of some information and change it in response to interactions. For example, a Button might keep track of isHovered state.
+
+Props and state are different, but they work together. A parent component will often keep some information in state (so that it can change it), and pass it down to child components as their props. It’s okay if the difference still feels fuzzy on the first read. It takes a bit of practice for it to really stick!
+
 ## Angular vs React
 
 | |**Angular**|**React**|
