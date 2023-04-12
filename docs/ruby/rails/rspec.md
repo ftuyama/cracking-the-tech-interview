@@ -63,3 +63,18 @@ RSpec.describe Order, type: :model do
   end
 end
 ```
+
+## Example 3
+
+```ruby
+RSpec.describe YourController, type: :controller do
+  describe "POST create" do
+    context "with invalid parameters" do
+      it "returns HTTP 400" do
+        post :create, params: { invalid_param: "value" }
+        expect(response).to have_http_status(400)
+      end
+    end
+  end
+end
+```
