@@ -5,7 +5,7 @@ title: Classes
 ---
 
 
-## Class #1
+## Class #1 (Aldo)
 
 ### ED pronounce
 
@@ -23,9 +23,9 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 <https://www.liveworksheets.com/kk298qt>
 
 
-## Class #2
+## Class #2 (Alana)
 
-### US vs UK english:
+### 🇺🇸 vs 🇬🇧 english
 
 |                                  |  British                                                           | American                                                   |
 |----------------------------------|--------------------------------------------------------------------|------------------------------------------------------------|
@@ -47,19 +47,19 @@ Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the 
 |-----------|---------------------------------------------|-------|--------------------------------------------------------------------|
 | Chat      | /tʃæt/                                      | tíet  | <https://dictionary.cambridge.org/pronunciation/english/chat>      |
 | Vice      | /vaɪs/                                      |       | <https://dictionary.cambridge.org/pronunciation/english/vice>      |
-| Curiosity | /ˌkjʊə.riˈɒs.ə.ti/ UK /ˌkjʊr.iˈɑː.sə.t̬i/ US |       | <https://dictionary.cambridge.org/pronunciation/english/curiosity> |
+| Curiosity | /ˌkjʊə.riˈɒs.ə.ti/ 🇬🇧 /ˌkjʊr.iˈɑː.sə.t̬i/ 🇺🇸 |       | <https://dictionary.cambridge.org/pronunciation/english/curiosity> |
 
 
 ### ED pronounce
 
 As mentioned before
 
-### Material to study:
+### Material to study
 
 <https://engoo.com/app/materials/en>
 
 
-## Class #3
+## Class #3 (Joseph)
 
 ### Pronounce
 
@@ -74,3 +74,52 @@ Vowels should be pronounced with open and stretched mouth:
 
 <https://teacherjoseph.com/>
 <https://www.antimoon.com/how/pronunc-soundsipa.htm>
+
+
+## Class #4 (Alana)
+
+### Pronounce
+
+|               | IPA                 | Pronounce           | BR                 | Link                                                      |
+|---------------|---------------------|---------------------|--------------------|-----------------------------------------------------------|
+| Imprisoned    | /ɪmˈprɪzənd/        | im·priz·und         | im·prízond         | <https://www.google.com/search?q=imprisoned+pronounce>    |
+| Investigation | /ɪnˌvɛstəˈɡeɪʃən/   | in·ves·tuh·gey·shun | in·vés·ti·gay·shun | <https://www.google.com/search?q=investigation+pronounce> |
+| Pickled       | /ˈpɪkəld/           | pik·uld             | pick·uld           | <https://www.google.com/search?q=pickled+pronounce>       |
+| Bowl          | /boʊl/              | bohl                | bouwl              | <https://www.google.com/search?q=bowl+pronounce>          |
+| Police        | /pəˈlis/            | puh·leez            | pôliss             | <https://www.google.com/search?q=police+pronounce>        |
+
+### G
+
+Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
+
+```
+🇺🇸 djindjerr
+🇬🇧 djinjar
+```
+
+|             | IPA              | Pronounce         | BR                 | Link                                                    |
+|-------------|------------------|-------------------|--------------------|---------------------------------------------------------|
+| Ginger      | /ˈdʒɪndʒər/      | jin·jur           | djin·jar           | <https://www.google.com/search?q=ginger+pronounce>      |
+| Engineering | /ˌɛndʒəˈnɪrɪŋ/   | en·juh·neer·ing   | in·dji·nii·ring    | <https://www.google.com/search?q=engineering+pronounce> |
+| Imagination | /ɪˌmædʒəˈneɪʃən/ | i·maj·uh·ney·shun | i·ma·dji·ney·shion | <https://www.google.com/search?q=imagination+pronounce> |
+| Challenging | /ˈtʃælɪndʒɪŋ/    | chal·un·jing      | chal·un·djing      | <https://www.google.com/search?q=challenging+pronounce> |
+
+### Uncle vs Ankle
+
+- Anchor should start with stretched mouth (🇺🇸 `Ên` or 🇬🇧 `Ang`)
+- Uncle with more closed mouth (Like the complaint `Uhn`)
+
+|             | IPA           | Pronounce         | BR            | Link                                                          |
+|-------------|---------------|-------------------|---------------|---------------------------------------------------------------|
+| Anchor      | /ˈæŋkər/      | ang·kur           | ên·korr       | <https://www.google.com/search?q=anchor+pronounce>            |
+| Uncle       | /ˈʌŋkəl/      | uhn·kul           | uhn·kl        | <https://www.google.com/search?q=uncle+pronounce>             |
+
+```
+🇺🇸 Ên-korr
+🇬🇧 Ang-kah *subtle g
+```
+
+### Material to study
+
+<https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-k-g/5DMOJDSdEee4vVOvz0ABgg?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
+
