@@ -21,37 +21,6 @@ title: Object Oriented
 - **Mixins**: Mixins are a way to add behavior to a class without inheritance. A module can be mixed into a class using the "include" keyword, and its methods become available to instances of the class.
 - **Metaprogramming**: Metaprogramming refers to writing code that can modify itself or other code at runtime. In Ruby, this is made possible by the language's support for introspection and dynamic dispatch, which allow for powerful programming techniques such as defining methods at runtime and modifying the behavior of classes and objects on the fly.
 
-### Polymorphism
+## Links
 
-```ruby
-class Animal
-  def speak
-    "Animal speaks!"
-  end
-end
-
-class Dog < Animal
-  def speak
-    "Woof!"
-  end
-end
-
-class Cat < Animal
-  def speak
-    "Meow!"
-  end
-end
-
-class Cow < Animal
-  # Inherits Animal's speak method
-end
-
-animals = [Dog.new, Cat.new, Cow.new]
-
-animals.each do |animal|
-  puts animal.speak
-end
-```
-
-
-
+[Polymorphism in Ruby]({% link docs/ruby/polymorphism.md %})
