@@ -21,3 +21,15 @@ Rack defines a very simple interface. Rack compliant code must have the followin
 - The call method must accept a single argument - This argument is typically called env or environment, and it bundles all of the data about the request.
 - The call method must return an array of three elements These elements are, in order, status for the HTTP status code, headers, and body for the actual content of the response.
 A nice side effect of the call interface is that procs and lambdas can be used as Rack objects.
+
+## Call
+
+The call method is called in Rack, which is also called in all Rack middleware.
+
+The call method is a fundamental method in the Rack specification, which defines the interface between Ruby web frameworks and web servers. The call method is responsible for handling an HTTP request and generating an HTTP response.
+
+All Rack middleware are Ruby classes that conform to the Rack specification, and they are typically used to modify the request or response in some way before or after it reaches the main application. Each middleware component in the middleware stack must implement the call method, and the method is called in order from top to bottom of the middleware stack.
+
+The call method takes a single argument, which is a hash representing the request environment. The method must return an array containing the response status code, headers, and body.
+
+So, the call method is the core of the Rack specification and is responsible for handling HTTP requests and responses in Ruby web applications.
