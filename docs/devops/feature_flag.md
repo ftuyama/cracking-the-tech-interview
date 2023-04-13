@@ -2,7 +2,6 @@
 layout: home
 parent: Devops
 title: Feature Flag
-has_children: true
 ---
 
 # Feature Flag
