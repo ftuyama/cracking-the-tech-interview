@@ -24,8 +24,25 @@ val2 = (true && false)     # results in val2 being equal to false
 
 ## Clone vs dup
 
-- Object#dup creates a shallow copy of an object (it will not copy any mixed-in module methods)
-- Object#clone will
+Both create a shallow copy of an object, it will not copy any mixed-in module methods
+
+- Object#clone - the instance variables that refer to mutable objects will refer to the same objects as the original object
+- Object#dup - the instance variables that refer to mutable objects will refer to new copies of the objects
+- Marshal - to make a deep copy of an object that contains mutable objects, you can use the Marshal module
+
+```ruby
+deep_copy = Marshal.load(Marshal.dump(original_object))
+```
+
+You can also create a recursive `deep_dup` function:
+
+```ruby
+class Array
+  def deep_dup
+    map { |element| element.respond_to?(:deep_dup) ? element.deep_dup : element.dup }
+  end
+end
+```
 
 ## Include vs Extend
 
