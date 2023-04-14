@@ -17,6 +17,16 @@ ORM stands for Object-Relational Mapping. It is a programming technique used to 
 
 ORM frameworks provide a way for developers to interact with a database using high-level programming constructs such as classes, objects, and methods. The ORM maps these constructs to the underlying database schema and handles the translation of data back and forth between the two systems.
 
+```ruby
+class Book < ApplicationRecord
+  self.table_name = "books"
+
+  attribute :title, :string
+  attribute :author, :string
+  attribute :published_date, :date
+end
+```
+
 ## Models
 
 A model represents a table in your database and provides an interface to the data in that table. 
@@ -41,7 +51,7 @@ Validations are a way of ensuring that data meets certain criteria before it is 
 
 There are many types of validations in ActiveRecord, such as presence, length, numericality, and format. Validations are defined using methods on the model class.
 
-## Example
+### Example
 
 ```ruby
 class Product < ApplicationRecord
@@ -69,5 +79,35 @@ class Product < ApplicationRecord
   end
 end
 
+```
+
+## Single Table Inheritance
+
+Single Table Inheritance (STI) is a technique used in object-oriented programming to store objects of different subclasses in the same database table. 
+
+In STI, each row in the table represents an object of a specific subclass, and a type column is used to differentiate between the different subclasses.
+
+```ruby
+class Product < ApplicationRecord
+end
+
+class Book < Product
+end
+
+class Movie < Product
+end
+
+class MusicAlbum < Product
+end
+```
+
+In database
+
+```ruby
+create_table :products do |t|
+  t.string :title
+  t.string :type
+  # other attributes
+end
 ```
 
