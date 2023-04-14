@@ -51,13 +51,11 @@ There are two main types of polymorphism:
 
 ## Polymorphism in RoR
 
-Polymorphic associations in Ruby on Rails allow a single association to be associated with multiple models, enabling table abstraction. This means that the same polymorphic association can be used for multiple models, allowing you to create more flexible and reusable code.
+In RoR, polymorphic associations allow a model to belong to more than one other model, on a single association. 
 
 ### Example
 
-Let's say you have a social networking application where users can post comments on both articles and photos. You can use Polymorphic associations to allow comments to belong to either an article or a photo.
-
-To implement this, you would create a Comment model with the following attributes:
+You can use Polymorphic associations to allow comments to belong to either an article or a photo.
 
 ```bash
 rails generate model Comment content:text commentable:references{polymorphic}
@@ -65,10 +63,12 @@ rails generate model Comment content:text commentable:references{polymorphic}
 
 The commentable attribute is a Polymorphic association that allows a comment to belong to either an article or a photo.
 
-Next, you would create the Article and Photo models, with the following associations:
-
 ```ruby
-class Article < ApplicationRecord
+class Comment < ApplicationRecord
+  belongs_to :commentable, polymorphic: true
+end
+
+class Post < ApplicationRecord
   has_many :comments, as: :commentable
 end
 
@@ -90,6 +90,4 @@ comment = photo.comments.create(content: "Beautiful photo!")
 ```
 
 This would create a new comment associated with either an article or a photo, depending on which model you call the comments method on.
-
-Overall, Polymorphic associations are a powerful feature in Ruby on Rails that allow you to create flexible, reusable code that can be applied to multiple models.
 
