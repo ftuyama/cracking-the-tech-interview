@@ -11,6 +11,12 @@ ActiveRecord is the database interface in Rails.
 
 It provides an object-oriented interface to your database tables and allows you to perform operations on them using Ruby code. Some key features of ActiveRecord include:
 
+## ORM
+
+ORM stands for Object-Relational Mapping. It is a programming technique used to map data between a relational database and an object-oriented programming language.
+
+ORM frameworks provide a way for developers to interact with a database using high-level programming constructs such as classes, objects, and methods. The ORM maps these constructs to the underlying database schema and handles the translation of data back and forth between the two systems.
+
 ## Models
 
 A model represents a table in your database and provides an interface to the data in that table. 
