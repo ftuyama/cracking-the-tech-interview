@@ -114,3 +114,17 @@ Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
 
 - <https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-k-g/5DMOJDSdEee4vVOvz0ABgg?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
 
+
+## Class #5 (Alana)
+
+| Word  | 🇺🇸 IPA   | 🇺🇸 Pronounce | 🇬🇧 IPA   | 🇬🇧 Pronounce | BR        | Link                                                                                               |
+| ----- | ---------- | -------------- | ---------- | -------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| oasis | /oʊˈeɪsɪs/ | oh-AY-sis      | /əʊˈeɪsɪs/ | oh-AY-sis      | oh-AY-sis | [https://www.google.com/search?q=oasis+pronounce](https://www.google.com/search?q=oasis+pronounce) |
+| dye   | /daɪ/      | dye            | /daɪ/      | dye            | dye       | [https://www.google.com/search?q=dye+pronounce](https://www.google.com/search?q=dye+pronounce)     |
+| die   | /daɪ/      | die            | /daɪ/      | die            | dye       | [https://www.google.com/search?q=die+pronounce](https://www.google.com/search?q=die+pronounce)     |
+
+### Die and Dye
+
+- "Die" is pronounced with a long "i" sound /aɪ/
+- "Dye" is pronounced with the same long "i" sound followed by a voiced consonant sound /daɪ/. The "d" and "y" sounds in "dye" are pronounced quickly and blend together, so it sounds like a single syllable with the long "i" sound.
+
