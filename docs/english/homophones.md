@@ -35,3 +35,15 @@ More on [/θ/ vs /t/]({% link docs/english/phonetic.md %})
 
 <https://www.youtube.com/watch?v=dKk-_AntZoY>
 
+
+## Cook
+
+The difference in pronunciation between "cook" (noun) and "cook" (verb) is the stress on the first syllable for the noun and the second syllable for the verb.
+
+- "cook" (noun): stress on the first syllable /kʊk/ (rhyming with "look" or "book").
+- "cook" (verb): stress on the second syllable /kʊk/ (rhyming with "took" or "looked").
+
+```
+The cook cookies (The cúuk cuúks)
+```
+
