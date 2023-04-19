@@ -65,3 +65,41 @@ worth (n/adj) · worthy (adj)
 
 <https://engoo.com/app/lessons/minimal-pairs-t-%CE%B8/ak4-IDTVEeediN8xaTgJug>
 
+
+## /k/ and /g/
+
+- **/k/ sound** is voiceless, meaning that the vocal cords are not vibrating when the sound is made. To produce the /k/ sound, the back of the tongue is raised and touches the soft palate.
+
+- **/g/ sound** is voiced, meaning that the vocal cords vibrate when the sound is made. To produce the /g/ sound, the back of the tongue is raised towards the soft palate, but there is a partial closure of the vocal cords.
+
+### Instructions
+
+1. Open your mouth just a little bit.
+2. Lower the tip of your tongue near the back of your bottom teeth.
+3. Put the back of your tongue against the back of the roof of your mouth.
+
+- **/k/**: Let out a little puff of air.
+- **/g/**: Let a puff of air escape while making a sound in your throat.
+
+### Practice
+
+- **/k/** vs **/g/**
+
+```
+cold · gold
+card · guard
+class · glass
+back · bag
+dock · dog
+```
+
+### Exercise
+
+<https://engoo.com/app/lessons/minimal-pairs-t-%CE%B8/ak4-IDTVEeediN8xaTgJug>
+
+
+## /tʃ/ and /dʒ/
+
+### Exercise
+
+<https://engoo.com/app/lessons/pronunciation-pronunciation-consonants-t%CA%83-d%CA%92/T1lu6Cs8EeeUf8cN4OPcqw?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
