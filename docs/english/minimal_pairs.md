@@ -1,10 +1,11 @@
 ---
 layout: home
-parent: English
-title: Phonetic
+grand_parent: English
+parent: Phonetic
+title: Minimal pairs
 ---
 
-# Phonetic
+# Minimal pairs
 
 ## /θ/, /t/ and /ð/
 
