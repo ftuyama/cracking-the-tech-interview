@@ -30,8 +30,6 @@ In US English, "thought" and "taught" have different vowel sounds in the stresse
 "Taught" is pronounced with the "ah" sound, as in "father" or "hot."
 ```
 
-More on [/θ/ vs /t/]({% link docs/english/phonetic.md %})
-
 ### External media
 
 <https://www.youtube.com/watch?v=dKk-_AntZoY>
