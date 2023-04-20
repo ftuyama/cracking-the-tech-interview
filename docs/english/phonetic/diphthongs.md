@@ -1,6 +1,7 @@
 ---
 layout: home
-parent: English
+grand_parent: English
+parent: Phonetic
 title: Diphthongs
 ---
 
