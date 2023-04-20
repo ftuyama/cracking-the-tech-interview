@@ -9,7 +9,7 @@ title: Classes
 
 ### ED pronounce
 
-Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the "E". 
+Whenever you have a "T" or a "D" before the "ED" ending, you must pronounce the "E".
 
 |           | Pronounce          | Pronounce   | Link                                                               |
 |-----------|--------------------|-------------|--------------------------------------------------------------------|
@@ -123,8 +123,9 @@ Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
 | dye   | /daɪ/      | dye            | /daɪ/      | dye            | dye       | [https://www.google.com/search?q=dye+pronounce](https://www.google.com/search?q=dye+pronounce)     |
 | die   | /daɪ/      | die            | /daɪ/      | die            | dye       | [https://www.google.com/search?q=die+pronounce](https://www.google.com/search?q=die+pronounce)     |
 
-### Die and Dye
 
-- "Die" is pronounced with a long "i" sound /aɪ/
-- "Dye" is pronounced with the same long "i" sound followed by a voiced consonant sound /daɪ/. The "d" and "y" sounds in "dye" are pronounced quickly and blend together, so it sounds like a single syllable with the long "i" sound.
+## Class #6 (Joseph)
 
+- Train using shadowing!
+- Practice your intonation!
+- There are podcasts for that!

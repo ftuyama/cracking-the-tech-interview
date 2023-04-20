@@ -1,6 +1,7 @@
 ---
 layout: home
-parent: English
+grand_parent: English
+parent: Phonetic
 title: Homophones
 ---
 
@@ -9,7 +10,7 @@ title: Homophones
 ## Thought, Taught, Though, Tough
 
 | Word    | 🇺🇸 IPA         | 🇺🇸 Pronounce   | 🇬🇧 IPA      | 🇬🇧 Pronounce | BR          | Link                                                                                                   |
-| ------- | -------------- | ------------- | ----------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------| 
+| ------- | -------------- | ------------- | ----------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------|
 | thought | /θɑːt/         | thaat         | /θɔːt/      | thawt       | thawt       | [https://www.google.com/search?q=thought+pronounce](https://www.google.com/search?q=thought+pronounce) |
 | taught  | /tɑːt/         | taat          | /tɔːt/      | tawt        | tawt        | [https://www.google.com/search?q=taught+pronounce](https://www.google.com/search?q=taught+pronounce)   |
 | though  | /ðoʊ/          | ðoʊ           | /ðəʊ/       | thoʊt       | thôw        | [https://www.google.com/search?q=though+pronounce](https://www.google.com/search?q=though+pronounce)   |
@@ -22,10 +23,10 @@ title: Homophones
 
 ### Differences
 
-In US English, "thought" and "taught" have different vowel sounds in the stressed syllable. 
+In US English, "thought" and "taught" have different vowel sounds in the stressed syllable.
 
 ```
-"Thought" is pronounced with the "aw" sound, as in "caught" or "law," 
+"Thought" is pronounced with the "aw" sound, as in "caught" or "law,"
 "Taught" is pronounced with the "ah" sound, as in "father" or "hot."
 ```
 

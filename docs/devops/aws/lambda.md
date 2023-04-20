@@ -1,20 +1,21 @@
 ---
 layout: home
+grand_parent: Devops
 parent: AWS
 title: Lambda
 ---
 
 # AWS Lambda
 
-AWS Lambda is a serverless computing service offered by Amazon Web Services (AWS). 
+AWS Lambda is a serverless computing service offered by Amazon Web Services (AWS).
 
 It allows you to run code in response to events without having to manage servers or infrastructure. With AWS Lambda, you can write code in a variety of languages (such as Python, Node.js, or Java), upload it to AWS Lambda, and then run it in response to events triggered by other AWS services or custom events.
 
 ## How does AWS Lambda work?
 
-AWS Lambda works by creating "functions" that contain your code and deploying them to AWS Lambda. 
+AWS Lambda works by creating "functions" that contain your code and deploying them to AWS Lambda.
 
-Each function is triggered by an event, such as an incoming API request, a file upload to Amazon S3, or a message on an Amazon Simple Notification Service (SNS) topic. When an event occurs, AWS Lambda automatically provisions the necessary computing resources and runs your code. 
+Each function is triggered by an event, such as an incoming API request, a file upload to Amazon S3, or a message on an Amazon Simple Notification Service (SNS) topic. When an event occurs, AWS Lambda automatically provisions the necessary computing resources and runs your code.
 
 Once the code finishes executing, the resources are released, making it a very cost-effective solution for event-driven workloads.
 
@@ -67,7 +68,7 @@ def lambda_handler(event:, context:)
   method = event['httpMethod']
   body = event['body']
   headers = event['headers']
-  
+
   # Process the request based on the HTTP method
   case method
   when 'GET'
@@ -86,10 +87,10 @@ def lambda_handler(event:, context:)
     else
       # Process the request body
       data = JSON.parse(body)
-      
+
       # Perform some action based on the request data
       response_data = { message: "Hello, #{data['name']}!" }
-      
+
       response = {
         statusCode: 200,
         body: JSON.generate(response_data)
@@ -102,10 +103,10 @@ def lambda_handler(event:, context:)
       body: JSON.generate({ error: 'Method not allowed' })
     }
   end
-  
+
   # Add headers to the response
   response['headers'] = headers
-  
+
   # Return the response
   response
 end
