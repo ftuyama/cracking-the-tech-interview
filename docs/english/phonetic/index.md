@@ -1,11 +1,11 @@
 ---
 layout: home
 parent: English
-title: Phonetic
+title: Index
 has_children: true
 ---
 
-# Phonetic
+# Index
 
 ## List of sounds
 
