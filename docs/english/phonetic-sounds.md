@@ -6,6 +6,66 @@ title: Phonetic Sounds
 
 # Phonetic Sounds
 
+## List of sounds
+
+- Vowels:
+
+```
+/i/ as in "beet"
+/ɪ/ as in "bit"
+/e/ as in "bait"
+/ɛ/ as in "bet"
+/æ/ as in "bat"
+/ʌ/ as in "but"
+/ɔ/ as in "bought"
+/o/ as in "boat"
+/ʊ/ as in "book"
+/u/ as in "boot"
+/ə/ as in "a" or "the"
+```
+
+- Diphthongs:
+
+```
+/eɪ/ as in "bake"
+/aɪ/ as in "buy"
+/ɔɪ/ as in "boy"
+/oʊ/ as in "boat"
+/aʊ/ as in "house"
+/ɪə/ as in "ear"
+/eə/ as in "air"
+/ʊə/ as in "tour"
+```
+
+- Consonants:
+
+```
+/b/ as in "bat"
+/d/ as in "dog"
+/f/ as in "fun"
+/g/ as in "go"
+/j/ as in "yes"
+/k/ as in "cat"
+/l/ as in "let"
+/m/ as in "man"
+/n/ as in "not"
+/p/ as in "pat"
+/s/ as in "sit"
+/t/ as in "top"
+/v/ as in "van"
+/z/ as in "zip"
+
+Harder:
+/θ/ as in "think"
+/ð/ as in "this"
+/ʃ/ as in "she"
+/ʒ/ as in "measure"
+/h/ as in "hat"
+/ŋ/ as in "sing"
+/r/ as in "red"
+/w/ as in "we"
+```
+
 ## Fricative consonants
 
 Fricative consonants are made by squeezing air between a small gap as it leaves the body. 
