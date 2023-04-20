@@ -93,6 +93,16 @@ back · bag
 dock · dog
 ```
 
+### OBS
+
+In Portuguese, the letter "g" is often pronounced differently depending on its position within a word and the letters that surround it. 
+
+```
+English sound /g/, as in the word "gato" (cat). 
+English sound /ʒ/, as in the word "ginástica" (gymnastics). 
+English sound /ʃ/, as in the word "gente" (people).
+```
+
 ### Exercise
 
 <https://engoo.com/app/lessons/minimal-pairs-t-%CE%B8/ak4-IDTVEeediN8xaTgJug>
