@@ -7,7 +7,7 @@ title: Homophones
 
 # Homophones
 
-## Thought, Taught, Though, Tough
+## Thought, Taught, Though, Tough, Fought
 
 | Word    | 🇺🇸 IPA         | 🇺🇸 Pronounce   | 🇬🇧 IPA      | 🇬🇧 Pronounce | BR          | Link                                                                                                   |
 | ------- | -------------- | ------------- | ----------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------|
@@ -15,6 +15,7 @@ title: Homophones
 | taught  | /tɑːt/         | taat          | /tɔːt/      | tawt        | tówt        | [https://www.google.com/search?q=taught+pronounce](https://www.google.com/search?q=taught+pronounce)   |
 | though  | /ðoʊ/          | ðoʊ           | /ðəʊ/       | thoʊt       | thôw        | [https://www.google.com/search?q=though+pronounce](https://www.google.com/search?q=though+pronounce)   |
 | tough   | /tʌf/          | tuff          | /θɔːt/      | tʌf         | tóf         | [https://www.google.com/search?q=tough+pronounce](https://www.google.com/search?q=tough+pronounce)     |
+| fought  | /fɑːt/         | faat          | /fɔːt/      | fawt        | fówt        | [https://www.google.com/search?q=fought+pronounce](https://www.google.com/search?q=fought+pronounce)     |
 
 ### Meaning
 
