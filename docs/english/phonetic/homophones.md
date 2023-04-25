@@ -11,8 +11,8 @@ title: Homophones
 
 | Word    | 🇺🇸 IPA         | 🇺🇸 Pronounce   | 🇬🇧 IPA      | 🇬🇧 Pronounce | BR          | Link                                                                                                   |
 | ------- | -------------- | ------------- | ----------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------|
-| thought | /θɑːt/         | thaat         | /θɔːt/      | thawt       | thawt       | [https://www.google.com/search?q=thought+pronounce](https://www.google.com/search?q=thought+pronounce) |
-| taught  | /tɑːt/         | taat          | /tɔːt/      | tawt        | tawt        | [https://www.google.com/search?q=taught+pronounce](https://www.google.com/search?q=taught+pronounce)   |
+| thought | /θɑːt/         | thaat         | /θɔːt/      | thawt       | thówt       | [https://www.google.com/search?q=thought+pronounce](https://www.google.com/search?q=thought+pronounce) |
+| taught  | /tɑːt/         | taat          | /tɔːt/      | tawt        | tówt        | [https://www.google.com/search?q=taught+pronounce](https://www.google.com/search?q=taught+pronounce)   |
 | though  | /ðoʊ/          | ðoʊ           | /ðəʊ/       | thoʊt       | thôw        | [https://www.google.com/search?q=though+pronounce](https://www.google.com/search?q=though+pronounce)   |
 | tough   | /tʌf/          | tuff          | /θɔːt/      | tʌf         | tóf         | [https://www.google.com/search?q=tough+pronounce](https://www.google.com/search?q=tough+pronounce)     |
 
