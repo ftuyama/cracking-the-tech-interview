@@ -62,7 +62,8 @@ pope/hope
 | month      | /mʌnθ/        | munth             | /mʌnθ/        | munth             | mônth            | [https://www.google.com/search?q=month+pronounce](https://www.google.com/search?q=month+pronounce)           |
 | eighth     | /eɪtθ/        | eyeth             | /eɪtθ/        | eyeth             | eitth            | [https://www.google.com/search?q=eighth+pronounce](https://www.google.com/search?q=eighth+pronounce)         |
 | clothes    | /kloʊðz/      | klohz             | /kləʊðz/      | kləʊz             | klôz             | [https://www.google.com/search?q=clothes+pronounce](https://www.google.com/search?q=clothes+pronounce)       |
-| cloth      | /klɔːθ/	     | klawth            |/klɒθ/	       | kloth	           | klawth	          | https://www.google.com/search?q=cloth+pronounce |
+| cloth      | /klɔːθ/	     | klawth            | /klɒθ/	       | kloth	           | klawth	          | https://www.google.com/search?q=cloth+pronounce |
+| close      | /kloʊz/	     | klohz	           | /kləʊs/	     | kləʊs	           | klouz	          | https://www.google.com/search?q=close+pronounce |
 | sixth      | /sɪksθ/       | siksth            | /sɪksθ/       | siksth            | siksth           | [https://www.google.com/search?q=sixth+pronounce](https://www.google.com/search?q=sixth+pronounce)           |
 | three      | /θri/         | three             | /θriː/        | three             | thrii            | [https://www.google.com/search?q=three+pronounce](https://www.google.com/search?q=three+pronounce)           |
 | owl        | /aʊl/         | owl               | /aʊl/         | owl               | aul              | [https://www.google.com/search?q=owl+pronounce](https://www.google.com/search?q=owl+pronounce)               |
