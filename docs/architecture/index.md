@@ -6,6 +6,8 @@ has_children: true
 
 # Architecture
 
+![image](https://user-images.githubusercontent.com/11530478/235828850-fe044559-66fd-472a-8445-56eeb32cff08.png)
+
 ## Async communication
 
 ### Technologies
