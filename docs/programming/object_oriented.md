@@ -13,6 +13,9 @@ title: Object Oriented
 - **Encapsulation**: Hiding internal details of an object from outside
 - **Abstraction**: Focusing on essential qualities of an object
 
+![image](https://user-images.githubusercontent.com/11530478/235827861-cc86dcb6-7b25-4222-9fa3-e5b05ff1e8ab.png)
+
+
 ## Ruby specific
 
 - **Duck Typing**: A type of dynamic typing where the type of an object is determined by its behavior (i.e., whether it responds to certain methods), rather than its class.
