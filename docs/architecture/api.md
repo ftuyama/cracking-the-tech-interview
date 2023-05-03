@@ -31,3 +31,8 @@ Perfect for low-latency data exchange
 🔹Webhook:
 Event-driven, HTTP callbacks, asynchronous
 Notifies systems when events occur
+
+## Security
+
+![image](https://user-images.githubusercontent.com/11530478/235827905-e7c5d75b-13b4-4c80-8ec1-08ffe8fdf9dc.png)
+
