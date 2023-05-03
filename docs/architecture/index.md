@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Architecture
+has_children: true
 ---
 
 # Architecture
