@@ -70,4 +70,18 @@ pope/hope
 | Xenophobia | /zenəˈfoʊbiə/ | zen-uh-foh-bee-uh | /zenəˈfəʊbiə/ | zen-uh-foh-bee-uh | zen-o-fôu-bee-ah | [https://www.google.com/search?q=xenophobia+pronounce](https://www.google.com/search?q=xenophobia+pronounce) |
 | Unanimous  | /juˈnænəməs/  | yoo-nan-uh-muhs   | /juˈnænəməs/  | yoo-nan-uh-muhs   | yoo-nan-uh-muhs  | [https://www.google.com/search?q=unanimous+pronounce](https://www.google.com/search?q=unanimous+pronounce)   |
 
+## 2023-05-10
 
+
+| Word     | 🇺🇸 IPA  | 🇺🇸 Pronounce | 🇬🇧 IPA   | 🇬🇧 Pronounce | BR       | Link                                                                                                     |
+| -------- | --------- | -------------- | ---------- | -------------- | -------- | -------------------------------------------------------------------------------------------------------- |
+| hopped   | /hɑpt/    | hopt           | /hɒpt/     | hopt           | hópt   | [https://www.google.com/search?q=hopped+pronounce](https://www.google.com/search?q=hopped+pronounce)     |
+| hoped    | /hoʊpt/   | hohpt          | /həʊpt/    | hohpt          | howpt    | [https://www.google.com/search?q=hoped+pronounce](https://www.google.com/search?q=hoped+pronounce)       |
+| owe      | /oʊ/      | oh             | /əʊ/       | oh             | ow      | [https://www.google.com/search?q=owe+pronounce](https://www.google.com/search?q=owe+pronounce)           |
+| author   | /ˈɑːθər/  | AW-thur        | /ˈɔːθə(r)/ | aw-ther        | óthor   | [https://www.google.com/search?q=author+pronounce](https://www.google.com/search?q=author+pronounce)     |
+| throat   | /θroʊt/   | throht         | /θrəʊt/    | throht         | throat   | [https://www.google.com/search?q=throat+pronounce](https://www.google.com/search?q=throat+pronounce)     |
+| southern | /ˈsʌðərn/ | SUH-thun       | /ˈsʌðərn/  | SUH-thun       | sûh-thern | [https://www.google.com/search?q=southern+pronounce](https://www.google.com/search?q=southern+pronounce) |
+| comma    | /ˈkɑːmə/  | KAH-muh        | /ˈkɒmə/    | KAH-muh        | cômma    | [https://www.google.com/search?q=comma+pronounce](https://www.google.com/search?q=comma+pronounce)       |
+| coma     | /ˈkoʊmə/  | KOH-muh        | /ˈkəʊmə/   | KOH-muh        | côuma     | [https://www.google.com/search?q=coma+pronounce](https://www.google.com/search?q=coma+pronounce)         |
+| thanks   | /θæŋks/   | thangs         | /θæŋks/    | thangs         | thanks   | [https://www.google.com/search?q=thanks+pronounce](https://www.google.com/search?q=thanks+pronounce)     |
+| then     | /ðɛn/     | then           | /ðen/      | then           | then     | [https://www.google.com/search?q=then+pronounce](https://www.google.com/search?q=then+pronounce)         |
