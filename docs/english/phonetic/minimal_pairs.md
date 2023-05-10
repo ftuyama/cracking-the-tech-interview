@@ -126,13 +126,13 @@ not · phone
 ```
 
 ```
-cost ·	coast
-comma	· coma
-cop ·	cope
+cost  ·	coast
+comma · coma
+cop   ·	cope
 honor ·	owner
-hop	· hope
-knot · note
-rob	· robe
+hop   · hope
+knot  · note
+rob   · robe
 ```
 
 ### Exercise
