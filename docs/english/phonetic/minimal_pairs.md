@@ -109,6 +109,36 @@ English sound /ʃ/, as in the word "gente" (people).
 <https://engoo.com/app/lessons/minimal-pairs-t-%CE%B8/ak4-IDTVEeediN8xaTgJug>
 
 
+## /ɑ/ and /oʊ/
+
+- **/ɑ/** is the "short a" sound, which is pronounced with an open mouth and the tongue low in the mouth. It is similar to the "a" sound in "cat" or "bat.". It's similar to the portuguese `ó` sound.
+
+- **/oʊ/** is the "long o" sound, which is pronounced with the mouth open and the tongue high in the back of the mouth. It is similar to the "o" sound in "go" or "boat.". It's similar to the portuguese `ôu` sound.
+
+### Practice
+
+- **/ɑ/** vs **/oʊ/**
+
+```
+hot · bone
+top · home
+not · phone
+```
+
+```
+cost ·	coast
+comma	· coma
+cop ·	cope
+honor ·	owner
+hop	· hope
+knot · note
+rob	· robe
+```
+
+### Exercise
+
+<https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-%C9%91-o%CA%8A/uuZv5jP_EeeHVoMsxFQUQQ>
+
 ## /tʃ/ and /dʒ/
 
 ### Exercise
