@@ -129,3 +129,52 @@ Ginger is pronounced as `dji` like in `giant`, not as brazilian `guilherme`
 - Train using shadowing!
 - Practice your intonation!
 - There are podcasts for that!
+
+
+## Class #7 (Alana)
+
+- Minimal Pairs: /ɑ/ & /oʊ/
+
+| /ɑ/      | /oʊ/      | 
+| -------- | --------- |
+| cost     | coast     | 
+| comma    | coma      | 
+| cop      | cope      | 
+| honor    | owner     | 
+| hop      | hope      | 
+| knot     | note      | 
+| rob      | robe      | 
+
+(cóst vs côust, cóp vs côupe, etc)
+
+```
+How much does it cost to reach the coast by bus?
+I always misspell comma. I always end up writing coma instead!
+Cops need to know how to cope with stressful situations.
+My grandfather is the proud owner of a medal of honor.
+He just hopped on the train and hoped it was going in the right direction.
+She took notes about all the different types of knots that sailors use.
+He was only wearing a robe as he chased the man who tried to rob him down the street.
+```
+
+- Consonants: /θ/ & /ð/ 
+
+| /θ/      | /ð/       | 
+| -------- | --------- |
+| thin     | bother    | 
+| throw    | breathe   | 
+| author   | southern  | 
+| healthy  | mother    | 
+| tooth    | weather   | 
+| thought  | another   | 
+| earth    | further   | 
+| thing    | father    | 
+
+```
+Martha and Dorothy were best friends. Their birthdays were on the same day and they always celebrated that day together. They both liked the same smooth music and the same authors. Everybody who met them thought they were sisters. They always told the truth to each other and they respected each other very much. They wanted to move to the Netherlands and planned to visit every country on Earth. For the two of them, there was nothing better than their friendship.
+```
+
+Links:
+- <https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-%C9%91-o%CA%8A/uuZv5jP_EeeHVoMsxFQUQQ?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
+- <https://engoo.com/app/lessons/pronunciation-pronunciation-consonants-%CE%B8-%C3%B0/qv87uCpxEeeSXmdrIWqFFA?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
+- <https://www.liveworksheets.com/uy310668au>
