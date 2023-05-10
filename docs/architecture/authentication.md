@@ -20,6 +20,8 @@ When it comes to authentication, there are three factors to consider:
 - Ownership factors: something you own, such as a device or phone number
 - Inherence factors: something unique to you, such as your biometric features
 
+When it comes to authentication, there are three factors to consider:
+
 - Passwords fall under “something you know”. 
 - One-Time Passwords (OTP) prove that the user owns a cell phone or a device
 - Biometric authentication proves "something unique to you".
