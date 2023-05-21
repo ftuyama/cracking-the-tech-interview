@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Typescript
+has_children: true
 ---
 
 # Typescript
