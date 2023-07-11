@@ -178,3 +178,21 @@ Links:
 - <https://engoo.com/app/lessons/pronunciation-pronunciation-minimal-pairs-%C9%91-o%CA%8A/uuZv5jP_EeeHVoMsxFQUQQ?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
 - <https://engoo.com/app/lessons/pronunciation-pronunciation-consonants-%CE%B8-%C3%B0/qv87uCpxEeeSXmdrIWqFFA?category_id=PLUgsMYZEeiDvOOFE9eOeA&course_id=U8eWXMYZEeix2ce31K82DQ>
 - <https://www.liveworksheets.com/uy310668au>
+
+
+## Class #8
+
+```
+MIGRATION:
+push factors > push people away from X place
+pull factors > things that are appealing
+```
+
+```
+He's a developer just like me
+He's a developer just like I am
+```
+
+This sentence uses the full phrase "I am" to compare the speaker with the mentioned individual. It places more emphasis on the speaker's identity as a developer and explicitly states the similarity between the two individuals. It is a more formal or grammatically complete way of expressing the comparison.
+
+
