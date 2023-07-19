@@ -85,3 +85,15 @@ pope/hope
 | coma     | /ˈkoʊmə/  | KOH-muh        | /ˈkəʊmə/   | KOH-muh        | côuma     | [https://www.google.com/search?q=coma+pronounce](https://www.google.com/search?q=coma+pronounce)         |
 | thanks   | /θæŋks/   | thangs         | /θæŋks/    | thangs         | thanks   | [https://www.google.com/search?q=thanks+pronounce](https://www.google.com/search?q=thanks+pronounce)     |
 | then     | /ðɛn/     | then           | /ðen/      | then           | then     | [https://www.google.com/search?q=then+pronounce](https://www.google.com/search?q=then+pronounce)         |
+
+
+## 2023-07-19
+
+| 🇺🇸 English   | 🇧🇷 Portuguese  |
+| ------------ | --------- |
+| Clog up      | entupir   |
+| Divert       | divergit  |
+| Slip out     | escapulir |
+| Plummeted    | despencar |
+| Digress      | mudar o assunto da conversa |
+| Gut feeling  | Pressentimento, instintivo  |
