@@ -196,3 +196,113 @@ He's a developer just like I am
 This sentence uses the full phrase "I am" to compare the speaker with the mentioned individual. It places more emphasis on the speaker's identity as a developer and explicitly states the similarity between the two individuals. It is a more formal or grammatically complete way of expressing the comparison.
 
 
+
+## Class #9
+
+### Gerund vs Infinitive
+
+#### Gerund
+
+- As Subject/Object in a sentence
+- After preposition -ING
+
+```
+• Writing clears my mind.
+• Running in the mornings is a good exercise.
+---
+• I don't like reading historical novels.
+• I don't like you reading at night, you need to sleep.
+---
+• I'm interested in learning a new language.
+• My brother sucks at playing board games.
+• I have never thought of/about leaving the city.
+• Thanks for coming with me.
+```
+
+#### Infinitive
+
+- After adjectives
+- After Wh questions
+- Objectives (form/report)
+
+```
+It is important to be open to new ideas.
+It's been nice to hear from you again, after all this time.
+---
+• I need to ask her what to do next
+• I learn how to play the guitar when I was a kid.
+• I don't know where to ship this item.
+---
+• To increase the sales revenue by 10%
+• To implement a new database for
+```
+
+#### to + ing
+
+Never correct, except on `be/get used to + ing`
+
+```
+I'm getting used to commuting in this city
+```
+
+#### Verbs + gerund/infitive
+
+Gerund
+```
+• Enjoy/love/hate • Avoid
+• Discuss • Miss
+• Like/dislike • Practice
+• Finish • Can't stand
+• Mind • Can't help
+• Suggest • Deny
+• Recommend • Imagine
+• Keep • Understand
+• Complete • Recall
+```
+
+Infinitive
+```
+• Ask • Agree
+• Promise • Decide
+• Demand • Help
+• Choose • Plan
+• Would hate • Learn
+• Would love/like • Want
+• Would prefer • Seem
+• Like (optional now)
+```
+
+#### Obs 
+
+- Emotional verbs 
+
+```
+enjoy, love, dislike, hate, prefer ›ing
+
+except when combined with `would`
+``` 
+
+- Remember
+
+```
+remember to: "dont forget to do X" I
+remember ing: "memory from the good'ol days"
+```
+
+- Stop
+
+```
+stopp -ing: "quit"
+I stopped smoking 5 years ago > I quit smoking
+stop to: "take a break > do something"
+```
+
+- Try
+
+```
+Try -ing > experiment
+Try removing this line of code, and see if it works.
+---
+Try to: putting some effort into something
+I'm trying to learn German, but maaaan, it's hard.
+```
