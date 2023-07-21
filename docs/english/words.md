@@ -97,3 +97,14 @@ pope/hope
 | Plummeted    | despencar |
 | Digress      | mudar o assunto da conversa |
 | Gut feeling  | Pressentimento, instintivo  |
+| Fancy (v)    | Fantasiar  |
+| Stand (v)    | Supprtar   |
+| Bear (v)     | Fantasiar  |
+
+`bear with me - tenha paciência comigo enquanto te explico algo`
+
+```
+Teacher, can I smoke here?
+I don't mind > it's not bothersome (fancy) (that doesn't bother me)
+I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
+```
