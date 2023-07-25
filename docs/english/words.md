@@ -108,3 +108,14 @@ Teacher, can I smoke here?
 I don't mind > it's not bothersome (fancy) (that doesn't bother me)
 I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 ```
+
+
+## 2023-07-25
+
+| 🇺🇸 English   | 🇧🇷 Portuguese  |
+| ------------ | --------- |
+| Bias         | Viés      |
+| Woke         | Lúcido (consciente sobre problemas socials como sexismo) |
+| Grunk        | Grosseiro ||
+| Snowflake    | Supersensível |
+| Crystal generation | Geração sensível e fragilizada |
