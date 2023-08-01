@@ -146,6 +146,9 @@ T: I don't know, can you?
 FORMAL ENGLISH: DO NOT USE CAN
 hey man, can you pass me a beer?
 hey man, may you pass me a beer?
+---
+there are many apps that can translate text
+there are many apps capable of translating text
 ```
 
 `Could`: ability that you lost -  "possibility" that didn't occur
@@ -203,5 +206,40 @@ There is a difference, but it is not as noticeable nowadays.
 So, feel free to use one or the other... except in the following cases:
 
 - May I. - To ask/give permission
+
+
+
+## Class #4
+
+```bash
+grow up > child > adulthood
+grow old > adult > elder
+          past its fame/good state
+age >
+    this movie didn't age well.
+grow apart > you distance yourself from X
+```
+
+```bash
+1.200
+one thousand two hundred dollars
+twelve hundred > 1.200
+
+I have one thousand followers
+        1K
+I need 50 grand to buy a place.
+```
+
+```bash
+I write notes DOWN
+
+bullet journal > BUJO
+```
+
+### Pronounce
+
+- named -> namd  (1 syllabe)
+- item -> Aitem or Item (2 pronounces)
+
 
 
