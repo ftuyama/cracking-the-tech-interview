@@ -119,3 +119,14 @@ I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 | Grunk        | Grosseiro ||
 | Snowflake    | Supersensível |
 | Crystal generation | Geração sensível e fragilizada |
+
+
+## 2023-08-01
+
+| 🇺🇸 English   | 🇧🇷 Portuguese  |
+| ------------ | --------- |
+| Blackmail    | Chantagear        | 
+| Slept in     | Oversleep         |
+| Dumpster     | Depósito de lixo  |
+
+
