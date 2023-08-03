@@ -243,3 +243,54 @@ bullet journal > BUJO
 
 
 
+## Class #5
+
+## Expressions
+
+| 🇺🇸 English                      | 🇧🇷 Portuguese                                 |
+| ------------------------------- | --------------------------------------------- |
+| Hold on for dear life           | Fazer algo como se a vida dependesse disso    |
+| Play hard to get                | Se fazer de difícil (flerte)                  |
+| Don't burn your bridges         | Deixar as opções abertas, não queimar o filme |
+| We'll cross that bridge when we get to it | Não se preocupe/ resolveremos mais tarde |
+| Spill the tea                   | Contar fofoca/segredo a alguém                |
+| Through thick and think = My ride or die  | Você e seu parceiro resistindo juntos em tudo |
+| Take it with a pinch/grain of salt  | Não leve para o pessoal / tão sério       |
+| Steal my thunder                | Roubar o holofote (spotlight)                 |
+| Don't rain on my parade         | Não estrage meu dia, estou de boa             |
+| Beat around the bush            | Tagarelar, evitar o tópico principal          |
+| Hold your horses                | Controlar suas emoções, não acelerar          |
+| The elephant in the room        | Um problema grande que todos conhecem mas ignoram |
+| Born with a silver spoon        | Pessoa vindo de família rica                  |
+| From rags to riches             | Dos trapos às riquezas, enriquecer sendo pobre |
+| Fight tooth and nail            | Lutar com unhas e dentes                      |
+| Pay an arm and a leg            | Custou um rim                                 |
+| Food for thought                | Algo que vale a pena se pensar                |
+| a penny for your thoughts       | Uma moeda pelos seus pensamentos              |
+| When it rains, it pours         | Chover no molhado, coisas ruins vindo ao mesmo tempo |
+| It's raining cats and dogs      | Chovendo muito                                |
+| Rain or shine                   | Faça chuva ou faça sol - De qualquer jeito    |
+| Every (dark) cloud has a silver lining | Todo mal tem algo de bom               |
+| Betweem a rock and a hard place | Entre a cruz e a espada                       |
+
+## Verbs
+
+- Pitch in > Fazer vaquinha 
+- Sit tight > Apertar os cintos - Espere e se prepare
+- Ring a bell > Me soa familiar
+- Cut to the chase > Ir direto ao ponto
+- To make ends meet > Ter dinheiro suficiente para pagar as contas
+- Eyeball it > Vai no olho - Faça uma estimativa
+- Frown upon > Mal visto
+- Shrug it off > Não se preocupe com isso
+- Keep your chin up > Manter o queixo erguido
+- Spice things up > Apimentar as coisas
+- Vanilla > Básico
+- Apples and oranges > Água e óleo
+- Not my cup of tea > Não é a minha praia
+- Butter someone up > bootlicker > suck up to > Lamber as botas, puxa-saco
+- Weather the storm > Sobrevivera à tempestade
+- Chasing rainbows > Daydreaming
+- Down to earth > De volta a Terra, à realidade
+
+
