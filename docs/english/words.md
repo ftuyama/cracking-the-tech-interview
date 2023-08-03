@@ -123,10 +123,11 @@ I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 
 ## 2023-08-01
 
-| 🇺🇸 English   | 🇧🇷 Portuguese  |
-| ------------ | --------- |
+| 🇺🇸 English   | 🇧🇷 Portuguese     |
+| ------------ | ----------------- |
 | Blackmail    | Chantagear        | 
 | Slept in     | Oversleep         |
 | Dumpster     | Depósito de lixo  |
+| Riot         | Rebelião          |
 
 
