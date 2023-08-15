@@ -294,3 +294,49 @@ bullet journal > BUJO
 - Down to earth > De volta a Terra, à realidade
 
 
+## Class #6
+
+### Passive voice
+
+There are many reasons to use Passive Voice:
+- When we don't know who did the action.
+- It is not important who did it, or we don't want to say who did it.
+- We want to emphasize the object.
+- Commonly used in Scientific, formal and academic contexts.
+- A matter of writing style
+
+Examples
+
+1. A cop was shot yesterday (emphasize the object)
+2. I was mugged on my way home (to avoid redundancy)
+3. I was told today is your b-day! (don't want to say who did it)
+4. Mistakes were made (accountability)
+5. The data was analyzed to determine X (science)
+
+#### Grammar
+
+Can be used in any verbal tense
+
+`BE + Participle form of the verb`
+
+### Accountability vs Responsibility
+
+#### Accountability - to be held accountable
+
+> "whose FAULT is it?"
+"whose head is gonna roll for this mistake?"
+if kids are failing, if kids are not learning...
+who is held acountable?
+we need accountability
+if it is the teacher fault, he needs to leave / punishment / fine
+
+
+#### Responsibility - to be responsible of
+
+› your duties
+> your tasks
+my responsibilites:
+plan my lessons
+check the Performance Review
+provide coaching
+
