@@ -131,3 +131,18 @@ I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 | Riot         | Rebelião          |
 
 
+school sweetheart > partner from school.
+scorched earth › "extreme BURN"
+dump > break up with someone (throw him to the garbage)
+disown > "deny" /take away
+own > to have
+chew out > scold
+virtually > practically
+assets > "goods you have"
+vindictive > adj = revenge / avenge
+avengers
+vindicators
+airtight > "no hole - no weakness"
+fixated on > obsession / stuborn
+
+
