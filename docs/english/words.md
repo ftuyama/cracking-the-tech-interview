@@ -131,6 +131,8 @@ I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 | Riot         | Rebelião          |
 
 
+## 2023-08-16
+
 school sweetheart > partner from school.
 scorched earth › "extreme BURN"
 dump > break up with someone (throw him to the garbage)
@@ -143,6 +145,15 @@ vindictive > adj = revenge / avenge
 avengers
 vindicators
 airtight > "no hole - no weakness"
-fixated on > obsession / stuborn
+fixated on > obsession / stubborn
+
+
+## 2023-08-18
+
+heir - herdeiro
+heirloom - herança
+think - espesso, grosso
+lit - acender
+pea - ervilha
 
 
