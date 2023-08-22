@@ -133,6 +133,7 @@ I don't care > for you, it is ZERO important / worthless ("i dont give a fuck")
 
 ## 2023-08-16
 
+```
 school sweetheart > partner from school.
 scorched earth › "extreme BURN"
 dump > break up with someone (throw him to the garbage)
@@ -146,14 +147,31 @@ avengers
 vindicators
 airtight > "no hole - no weakness"
 fixated on > obsession / stubborn
-
+```
 
 ## 2023-08-18
 
+```
 heir - herdeiro
 heirloom - herança
 think - espesso, grosso
 lit - acender
 pea - ervilha
+```
 
+## 2023-08-22
+
+```
+drizzle - light rain
+take out the dog - kill the dog
+hook up - a brief amorous relationship or encounter
+affair - relationship outside marriage
+boredom - the state of dullness
+shattered - estilhaçado
+breaking the arrangement in a romantic relationship - o acordo
+intercourse - sexual relationship
+compromise - an agreement or a settlement of a dispute that is reached by each side making concessions.
+aroused - provocado, estimulado
+corny / cheesy - cafona, brega
+```
 
