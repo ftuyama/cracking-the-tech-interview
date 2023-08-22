@@ -173,5 +173,11 @@ intercourse - sexual relationship
 compromise - an agreement or a settlement of a dispute that is reached by each side making concessions, by meeting halfway
 aroused - provocado, estimulado
 corny / cheesy - cafona, brega
+
+compromisso:
+1. boda > engagement / engaged > I'm engaged.
+2. actitud > commitment > commit
+3. "tengo un compromiso" > I have an appointment/duty
+an arrangement
 ```
 
