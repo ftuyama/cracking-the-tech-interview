@@ -173,11 +173,20 @@ intercourse - sexual relationship
 compromise - an agreement or a settlement of a dispute that is reached by each side making concessions, by meeting halfway
 aroused - provocado, estimulado
 corny / cheesy - cafona, brega
+```
 
-compromisso:
+```
+Compromise:
+1. reach an agreement by meeting halfway
+> decides to lose/win something
+> each one loses X, for both to win Y
+2. "put in danger"
+the data was compromised > "the data was in danger"
+
+compromiso:
 1. boda > engagement / engaged > I'm engaged.
 2. actitud > commitment > commit
-3. "tengo un compromiso" > I have an appointment/duty
+3. "tengo un compromiso" › I have an appointment/duty
 an arrangement
 ```
 
