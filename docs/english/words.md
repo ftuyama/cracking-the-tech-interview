@@ -170,7 +170,7 @@ boredom - the state of dullness
 shattered - estilhaçado
 breaking the arrangement in a romantic relationship - o acordo
 intercourse - sexual relationship
-compromise - an agreement or a settlement of a dispute that is reached by each side making concessions.
+compromise - an agreement or a settlement of a dispute that is reached by each side making concessions, by meeting halfway
 aroused - provocado, estimulado
 corny / cheesy - cafona, brega
 ```
