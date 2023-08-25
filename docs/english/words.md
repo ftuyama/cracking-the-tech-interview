@@ -190,3 +190,19 @@ compromiso:
 an arrangement
 ```
 
+
+## 2023-08-25
+
+```
+Pet peeve > something that bothers you
+something small-
+********
+when someone slurps
+
+phobias = fear > afraid of height
+
+knack - a bad habit
+brittle - breaks easily
+```
+
+
