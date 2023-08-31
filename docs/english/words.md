@@ -205,4 +205,46 @@ knack - a bad habit
 brittle - breaks easily
 ```
 
+## 2023-08-31
+
+```
+enable = physical
+allow = permission
+
+hollow = "it has NO substance, no material, no soul inside"
+empty = "it has nothing inside"
+
+the cookie jar is empty
+the bar is empty
+
+intricately - in a very complicated or detailed manner.
+intrinsicaly - in an essential or natural way.
+
+harsh - unpleasantly rough or jarring to the senses.
+lift - raise to a higher position or level.
+thurst - push, propulsion
+surpass - superar algum limite, alguém
+
+mutt (adj) - vira-lata
+tolerate - stand, bear
+
+beard - barba (pronúncia birrd)
+
+overfly - to pass over in an aircraft or spacecraft
+marvel - be filled with wonder or astonishment - se maravilhar
+span - the full extent of something from end to end; the amount of space that something covers.
+tow - rebocar
+inkling - a slight knowledge or suspicion; a hint.
+
+youngster - jovem (noun)
+young - jovem (adj)
+elder - velho (noun)
+old - velho (adj)
+
+boggy - pantanoso
+mind-boggling - not clear, foggy
+mind-blowing - surprising, shocking
+```
+
+
 
