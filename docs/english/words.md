@@ -246,5 +246,13 @@ mind-boggling - not clear, foggy
 mind-blowing - surprising, shocking
 ```
 
+## 2023-09-01
 
+```
+double-down: instead of accepting a mistake, they just get in a more stubborn attitude
+double-standard: A double standard is a code or policy that favors one group or person over another
 
+overstep the boundary -
+
+simp: "when you behave submissivelv for a woman"
+```
