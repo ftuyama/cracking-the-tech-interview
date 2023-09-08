@@ -340,3 +340,15 @@ plan my lessons
 check the Performance Review
 provide coaching
 
+
+## Class #7
+
+### Relative clause
+
+A little sentence that gives detail
+
+```
+, who , - Optional description added, can be removed
+that , - Always without comma!
+```
+
