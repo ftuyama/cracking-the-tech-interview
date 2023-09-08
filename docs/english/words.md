@@ -256,3 +256,12 @@ overstep the boundary -
 
 simp: "when you behave submissivelv for a woman"
 ```
+
+## 2023-09-08
+
+```
+neat - (of a place or thing) arranged in an orderly, tidy way.
+bitter - amargo
+frown upon (adj) - to disapprove of (something)
+binge-watching - the practice of watching multiple episodes of a television program in rapid succession 
+```
