@@ -263,5 +263,6 @@ simp: "when you behave submissivelv for a woman"
 neat - (of a place or thing) arranged in an orderly, tidy way.
 bitter - amargo
 frown upon (adj) - to disapprove of (something)
-binge-watching - the practice of watching multiple episodes of a television program in rapid succession 
+binge-watching - the practice of watching multiple episodes of a television program in rapid succession
+grow bored out of it - enjoar de algo com o passar do tempo
 ```
