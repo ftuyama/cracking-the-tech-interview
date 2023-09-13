@@ -266,3 +266,18 @@ frown upon (adj) - to disapprove of (something)
 binge-watching - the practice of watching multiple episodes of a television program in rapid succession
 grow bored out of it - enjoar de algo com o passar do tempo
 ```
+
+## 2023-09-13
+
+```
+Steward - Comissário de bordo
+Abreast - Lado a lado
+Foresight - Previsão
+Overreach - Ultrapassar
+Overarching - Abrangente
+Wing it - Improvise
+Ramp up - Increase level sharply
+Churn - Agitação
+Lean - Magro
+Lean Code – A software development design philosophy that emphasizes simplicity, efficiency, flexibility, and accessibility.
+```
