@@ -352,3 +352,33 @@ A little sentence that gives detail
 that , - Always without comma!
 ```
 
+## Class #8
+
+- Value vs Worth
+```
+I really value the moments we share together
+
+worth: OBJECT/PERSON (specific)
+it is worth + "price"
+it was worthy = It was worth every single cent.
+it is worth your time/effort/money
+He thinks he is not worthy. = "he has no value"
+This is worthv!
+```
+
+```
+critic = noun (review)
+criticism = noun (
+critic = person
+criticize = verb
+
+Barbie movie has some good critics
+I criticize the movie
+
+backslash /
+backslash = bad public response
+
+loophole - brecha na lei
+tarnish - manchar, lose or cause to lose luster, especially as a result of exposure to air or moisture.
+```
+
