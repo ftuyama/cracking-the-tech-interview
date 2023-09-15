@@ -382,3 +382,10 @@ loophole - brecha na lei
 tarnish - manchar, lose or cause to lose luster, especially as a result of exposure to air or moisture.
 ```
 
+```
+punch up:
+making fun of someone of high status /power
+VS
+punch down:
+make fun of the poor/handicapped/minorities
+```
