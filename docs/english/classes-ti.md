@@ -389,3 +389,5 @@ VS
 punch down:
 make fun of the poor/handicapped/minorities
 ```
+
+I didn't know any better - Não sabia jeito melhor
