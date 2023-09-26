@@ -391,3 +391,47 @@ make fun of the poor/handicapped/minorities
 ```
 
 I didn't know any better - Não sabia jeito melhor
+
+
+## Class #9
+
+```
+Remember to: "reminder"
+Hey, remember to send the report by the end of the day.
+
+Remember +ing: "have the memory of something..."
+I remember walking my dog to the park every day in the
+afternoon.
+
+Forget to: "didn't do something"
+I forgot to call you, I am so sorry.
+
+Forget -ing: "lose the memory"
+I forgot travelling to that town, i was too little.
+
+Try to: put some effort
+I'll try to do it tomorrow.
+
+Try ting: do something NEW/experiment, and see if it works.
+Hey, have you tried talking to her?
+
+stop to: take a break - do something ELSE
+I stopped on my way home to smoke a cigar.
+
+stop ting: QUIT - stop doing it FOREVER
+I stopped working at NVC due to some personal issues.
+```
+
+## Infinitive
+
+For infinitives:
+
+```
+• Ask • Agree
+• Promise • Decide
+• Demand • Help
+• Choose • Plan
+• Would hate • Learn
+• Would love/like • Want
+• Would prefer • Seem
+```
