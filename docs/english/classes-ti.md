@@ -435,3 +435,24 @@ For infinitives:
 • Would love/like • Want
 • Would prefer • Seem
 ```
+
+## Class #10
+
+```
+payback
+> pay (money) back the loan to the bank
+> "return" the favor
+
+it's payback time. > revenge
+```
+
+```
+go back: "return" > go again (when you are not there
+anymore)
+come back: "return" (you are in the place, you leave, but
+you will be back/come back)
+
+Colombia; back from vacations in Mexico.
+The trip was amazing, I loved everything
+I will definitely go back to Mexico.
+```
