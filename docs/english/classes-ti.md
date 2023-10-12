@@ -456,3 +456,12 @@ Colombia; back from vacations in Mexico.
 The trip was amazing, I loved everything
 I will definitely go back to Mexico.
 ```
+
+## Class #11
+
+```
+REAL: if + present / will (can, should)
+UNREAL future: if + past / would (could, might)
+UNREAL past (regret): if + past perfect / would have - (could have)
+```
+
