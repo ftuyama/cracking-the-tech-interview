@@ -465,3 +465,11 @@ UNREAL future: if + past / would (could, might)
 UNREAL past (regret): if + past perfect / would have - (could have)
 ```
 
+## Class #12
+
+```
+AT - Specific place (that you and your speaker understand), named places
+IN - Inside a place
+ON - Surfaces, roads, corners, shore, public transport
+```
+
