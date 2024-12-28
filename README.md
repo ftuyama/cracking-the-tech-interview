@@ -2,7 +2,7 @@
 
 Cracking the tech interview, answer easily the technical questions
 
-Access it at <https://ftuyama.com/cracking-the-tech-interview>
+Access it at <https://ftuyama.github.io/cracking-the-tech-interview>
 
 ## How to run it locally?
 
